@@ -1,0 +1,31 @@
+Job:
+   Set of instructions to perform a build, test, package,image creation and deploy to Cloud Providers.
+
+Linux:
+  Core kernel features:
+     Cgroups
+     SELinux
+     Namespace
+
+To build Java projects:
+  Maven
+  Ant
+  Gradle
+
+What is Maven:
+  maven is command line tool to build the java code. It is also helpful to manage the project, so it is project management 
+tool.
+  It also helps team to manage the project dependencies using a file called pom.xml
+
+POM refers to Project Object Model
+
+Maven developed by Apache Software foundation using Java.
+
+Maven goals to build and produce the output:
+
+  mvn clean
+      compile
+      test
+      package
+      install
+      deploy

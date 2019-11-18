@@ -1,0 +1,5 @@
+https://kubernetes.io/docs/tutorials/hello-minikube/
+https://www.digitalocean.com/community/cheatsheets/getting-started-with-kubectl-a-kubectl-cheat-sheet
+https://medium.com/kubernetes-playground/get-your-k8s-cluster-with-5-nodes-in-5-mins-for-free-to-use-for-4-hours-289e7d0f3eac
+https://kubernetes.io/docs/user-journeys/users/application-developer/foundational/
+https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-interactive/
